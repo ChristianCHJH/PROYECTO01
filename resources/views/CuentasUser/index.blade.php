@@ -77,7 +77,6 @@
 
                         <td>{{$nombreRol}}</td>
 
-                        @can('gestion.cuentas.credenciales.editar')
                             <td align="center">
                                 <button type="button"  class="btn btn-warning" data-toggle="modal" data-target="#editUsuario{{$user->id}}">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
@@ -86,7 +85,6 @@
                                     </svg>
                                 </button>
                             </td>
-                        @endcan
 
                         <!-- Modal de CREACION DE CATEGORIA HT -->
                             <div class="modal fade" id="editUsuario{{$user->id}}" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
