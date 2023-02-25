@@ -334,7 +334,7 @@ Route::controller(DocumentssomaController::class)->group(function(){
 
 Route::controller(CuentasUserController::class)->group(function(){
 
-    Route::get('CuentasUsuarios','index')->name('CuenUser.index');
+    Route::get('CuentasUsuarios','index')->middleware('can:gestion.cuentas.credenciales.view')->name('CuenUser.index');
 
     Route::post('CuentasUsuarios/{users}', 'create')->name('CuenUser.create');
     
