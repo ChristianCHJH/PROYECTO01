@@ -60,7 +60,28 @@
                     @endcan
                 </tr>
             </thead>
-            
+            <tbody>
+                @foreach($cuentas as $cuenta)
+                    <tr>
+                        <th >{{$cuenta ->id}}</th>
+                        <td>{{$cuenta ->ruc}}</td>
+                        <td>{{$cuenta ->razonSocial}}</td>
+
+                        @foreach ($catcuentas as $catcuenta)
+                        <?php if ($catcuenta->id == $cuenta ->catcuentas_id) { ?>
+                            <td>{{$catcuenta ->CatgEmpresa}}</td>
+                        <?php } ?>
+                        @endforeach
+                        <td>{{$cuenta ->tipoFacturacion}}</td>
+                        
+                        <td>{{$cuenta ->created_at}}</td>
+                        <td>{{$cuenta ->updated_at}}</td>
+
+                        
+
+                    </tr>
+                @endforeach
+            </tbody>
         </table>
     </div>
 
