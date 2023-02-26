@@ -21,6 +21,8 @@ class EmpresaCuentaController extends Controller
         
         $catcuentas = Catcuenta::all();
 
+        return view('empresaCuenta.probando');
+
         return view('empresaCuenta.index', compact('cuentas','catcuentas'));
     }
 
