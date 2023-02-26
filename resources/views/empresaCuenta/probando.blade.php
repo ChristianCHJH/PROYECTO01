@@ -77,7 +77,15 @@
                         <td>{{$cuenta ->created_at}}</td>
                         <td>{{$cuenta ->updated_at}}</td>
 
-                        
+                        <!-- CONDICIONAL PARA MOSTRAR ESTADO -->
+                            <?php if ($cuenta ->estado=='0') { ?>
+                                <td >Inactivo</td>
+                            <?php } elseif ($cuenta ->estado=='1') { ?>
+                                <td>Activo</td>
+                            <?php } else { ?>
+                                <td>Pendiente</td>
+                            <?php }?>
+                        <!-- FIN CONDICIONAL  -->
 
 
                         @can('button.cuentas.show')
