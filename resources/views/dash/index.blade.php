@@ -25,7 +25,7 @@
             
             
             <div class="carousel-item active">
-                <img class="d-block w-100" src="../storage/Img_Inicio/32-q4Id1Hm3Rz8Nl3W.jpeg" alt="First slide" style="height: 45vh;width: 100%;object-fit: cover;">
+                <img class="d-block w-100" src="../storage/Img_Inicio/aplicacionweb.jpg" alt="First slide" style="height: 45vh;width: 100%;object-fit: cover;">
                 
 
                 <div class="carousel-caption d-none d-md-block">
