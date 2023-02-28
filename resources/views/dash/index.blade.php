@@ -76,7 +76,7 @@
 
             <div class="form-row">
                 <div class="col-md-6" style="display:flex;justify-content:center;align-items:center">
-                    <img src="../storage/Img_Inicio/soporteLogo.png" alt="Card image cap" style="width: 35vh;">
+                    <img src="../storage/Img_Inicio/leonsoporte.png" alt="Card image cap" style="width: 35vh;">
                 </div>
 
                 <div class="col-md-6" style="display:flex;justify-content:center;align-items:center;">
