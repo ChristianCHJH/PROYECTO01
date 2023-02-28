@@ -35,7 +35,7 @@
             </div>
 
             <div class="carousel-item">
-                <img class="d-block w-100" src="../storage/Img_Inicio/36-r2Wm8Uw6Rk4Xw0R.jpg" alt="First slide" style="height: 45vh;width: 100%;object-fit: cover;">
+                <img class="d-block w-100" src="../storage/Img_Inicio/metodologias-agiles.jpg" alt="First slide" style="height: 45vh;width: 100%;object-fit: cover;">
                 
 
                 <div class="carousel-caption d-none d-md-block">
@@ -45,7 +45,7 @@
             </div>
 
             <div class="carousel-item">
-                <img class="d-block w-100" src="../storage/Img_Inicio/37-r2Wm8Uw6Rk4Xw0R.jpg" alt="First slide" style="height: 45vh;width: 100%;object-fit: cover;">
+                <img class="d-block w-100" src="../storage/Img_Inicio/fullstack.png" alt="First slide" style="height: 45vh;width: 100%;object-fit: cover;">
                 
 
                 <div class="carousel-caption d-none d-md-block">
