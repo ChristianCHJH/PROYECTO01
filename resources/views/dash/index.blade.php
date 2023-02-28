@@ -29,8 +29,8 @@
                 
 
                 <div class="carousel-caption d-none d-md-block">
-                    <h1>Administración integral de instalaciones</h1>
-                    <h4>Genere ahorros profesionalizando su servicio</h4>
+                    <h1>Desarrollador Fullstack</h1>
+                    <h4>Genera soluciones de valor para los usuarios de tus productos digitales.</h4>
                 </div>
             </div>
 
@@ -39,8 +39,7 @@
                 
 
                 <div class="carousel-caption d-none d-md-block">
-                    <h1>Seguridad y salud ocupacional</h1>
-                    <h4>Control de las actividades de los proveedores e implementación de las OHSAS 18001</h4>
+                    <h4>UNA CONSULTORA DE TECNOLOGÍA E INNOVACIÓN DIGITAL</h4>
                 </div>
             </div>
 
@@ -49,8 +48,7 @@
                 
 
                 <div class="carousel-caption d-none d-md-block">
-                    <h1>Mantenimiento integral</h1>
-                    <h4>Mantenimiento preventivo y mantenimiento correctivo</h4>
+                    <h4>POTENCIA EL IMPACTO DE TU NEGOCIO GENERANDO NUEVAS EXPERIENCIAS</h4>
                 </div>
             </div>
 
